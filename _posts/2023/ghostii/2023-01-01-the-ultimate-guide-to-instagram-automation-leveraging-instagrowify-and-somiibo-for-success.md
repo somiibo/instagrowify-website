@@ -8,8 +8,8 @@ post:
   excerpt: "Discover how to supercharge your Instagram marketing efforts using Instagrowify and Somiibo in this ultimate guide to Instagram automation"
   author: alex
   id: 1689229088
-  tags: [tag, tag2, tag3]
-  categories: [marketing, business]
+  tags: ["business marketing"]
+  categories: ["Marketing", "Business"]
   affiliate-search-term: Marketing
 ---
 
