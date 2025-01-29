@@ -5,13 +5,13 @@
     "name": "instagrowify-website"
   },
   "npm-build": {
-    "timestamp": "2025-01-17T08:57:13.612Z"
+    "timestamp": "2025-01-29T01:26:01.954Z"
   },
   "gh-pages-push": {
     "timestamp": "%GHP_TIMESTAMP%"
   },
   "packages": {
-    "web-manager": "3.2.66"
+    "web-manager": "3.2.69"
   },
   "brand": {
     "name": "Instagrowify",
