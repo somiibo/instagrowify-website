@@ -86,11 +86,11 @@ web_manager:
     config:
       palette:
         popup:
-          background: "#1fb7f2"
+          background: "#237afc"
           text: "#fff"
         button:
           background: "#fff"
-          text: "#1fb7f2"
+          text: "#237afc"
   chatsy:
     enabled: true
     config:
@@ -98,7 +98,7 @@ web_manager:
       chatId: "NcEywcnfLMs1cB"
       settings:
         openChatButton:
-          background: "#1fb7f2"
+          background: "#237afc"
           text: "#fff"
   sentry:
     enabled: true
